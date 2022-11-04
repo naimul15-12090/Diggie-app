@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nevigation_video"
+        android:title="video Lectures"
+        android:icon="@drawable/ic_video"/>
+    <item android:id="@+id/nevigation_pdf"
+        android:title="Pdf Files"
+        android:icon="@drawable/ic_pdf1"/>
+    <item android:id="@+id/nevigation_website"
+        android:title="Go To BLC"
+        android:icon="@drawable/ic_website"/>
+    <item android:id="@+id/nevigation_review"
+        android:title="Rate Us"
+        android:icon="@drawable/ic_review"/>
+    <item android:id="@+id/nevigation_share"
+        android:title="Share This App"
+        android:icon="@drawable/ic_share"/>
+    <item android:id="@+id/nevigation_developer"
+        android:title="Developers"
+        android:icon="@drawable/ic_developer"/>
+
+</menu>
